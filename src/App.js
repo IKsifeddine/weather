@@ -22,6 +22,7 @@ function App() {
 
       
       <TimeAndLocation/>
+      
       <TemperatureAndDetails/>
       <FortCast title="horly fortcast"/>
       <FortCast title="dayl forcast "/>
